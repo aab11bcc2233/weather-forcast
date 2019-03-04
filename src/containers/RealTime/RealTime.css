@@ -1,0 +1,9 @@
+.temp, .weather, .wind, .humidity {
+    color: rgb(236, 19, 19);
+    text-align: center;
+}
+
+.temp {
+    font-size: 4rem;
+    font-weight: bold;
+}
